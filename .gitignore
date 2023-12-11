@@ -1,0 +1,60 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vscode/
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+*.sln
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+
+# Compiled source
+*.lib
+*.o
+*.obj
+*.idb
+*.pdb
+
+# Packaged Files
+*.7z
+*.zip
+*.rar
+*.tar
+*.gz
+*.jar
+*.xz
+*.bz2
+*.swp
+*.uasset
+*.uproject
+*.uplugin
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+*.sqlite3
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
